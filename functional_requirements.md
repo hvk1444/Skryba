@@ -32,6 +32,7 @@
    * Debt/loan has following parameters:
       * Name (of a person to which user owes the money/whom owes the money to the user)
       * Amount
+      * Description (e.g. what is the debt for) (optional)
    * User should be able to see the balance of their debts and loans.
    * User should be able to see how the balance of their debts and loans affects their monthly budget balance.
 5. Savings
